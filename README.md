@@ -12,7 +12,6 @@ method|1-shot|5-shot
 :-:|:-:|:-:
 Classifier-Baseline |58.91|77.76|
 Meta-Baseline |63.17|79.26|
-Classifier-Baseline |-|-|
 Our |61.39|79.90|
 
 #### semi-supervised 5-way accuracy (%) on *miniImageNet*
@@ -21,7 +20,7 @@ method|1-shot|1-shot w/D|5-shot|5-shot w/D
 :-:|:-:|:-:|:-:|:-:
 [LST](https://arxiv.org/abs/1906.00562) |70.1|64.1|78.7|77.4
 [TransMatch](https://arxiv.org/abs/1912.09033) |63.02|59.32|81.19|79.29
-Our-semi 68.22|64.02|84.54|81.22
+Our-semi |68.22|64.02|84.54|81.22
 
 ####
 
